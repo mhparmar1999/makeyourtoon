@@ -1,13 +1,6 @@
 numpy
 opencv-python-headless
 tensorflow
-Pillow
-time
-os
-os.path
-random
-string
-datetime
 base64
 moviepy.editor
 threading
