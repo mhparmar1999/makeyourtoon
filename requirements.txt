@@ -1,8 +1,7 @@
 numpy
 opencv-python-headless
 tensorflow
-streamlit
-PIL
+Pillow
 time
 os
 os.path
