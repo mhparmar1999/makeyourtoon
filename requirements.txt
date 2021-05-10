@@ -4,3 +4,4 @@ tensorflow
 pybase64
 moviepy
 pillow
+tf_slim
