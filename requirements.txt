@@ -1,7 +1,7 @@
 numpy
 opencv-python-headless
 tensorflow
-base64
+pybase64
 moviepy.editor
 threading
 tensorflow.contrib.slim
