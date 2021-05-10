@@ -3,5 +3,4 @@ opencv-python-headless
 tensorflow
 pybase64
 moviepy
-threading
 tensorflow.contrib.slim
