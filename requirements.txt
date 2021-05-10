@@ -1,4 +1,5 @@
-import cv2
+numpy
+opencv-python-headless
 import tensorflow as tf 
 import network
 import guided_filter
