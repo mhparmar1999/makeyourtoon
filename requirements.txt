@@ -4,4 +4,3 @@ tensorflow
 pybase64
 moviepy
 pillow
-tensorflow.contrib
