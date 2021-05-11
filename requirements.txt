@@ -1,5 +1,6 @@
 ffmpeg==1.4
 moviepy==0.2.3.5
+imageio==2.4.1
 numpy==1.19.5
 opencv-contrib-python==4.5.1.48
 opencv-python==4.5.1.48
