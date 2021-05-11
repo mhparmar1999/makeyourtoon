@@ -1,7 +1,9 @@
-numpy
-opencv-python-headless
-tensorflow
+ffmpeg==1.4
+moviepy==0.2.3.5
+numpy==1.19.5
+opencv-contrib-python==4.5.1.48
+opencv-python==4.5.1.48
+Pillow==8.2.0
+tensorflow==1.13.1
+tensorflow-estimator==2.4.0
 pybase64
-moviepy
-pillow
-tf_slim
