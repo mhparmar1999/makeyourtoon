@@ -7,3 +7,4 @@ opencv-python==4.5.1.48
 Pillow==8.2.0
 tensorflow==1.13.1
 pybase64
+ffmpeg-python
